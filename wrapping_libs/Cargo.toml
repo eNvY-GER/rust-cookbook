@@ -1,0 +1,7 @@
+[package]
+name = "wrapping_libs"
+version = "0.1.0"
+authors = ["eNvY-GER <Leif_G@web.de>"]
+edition = "2018"
+
+[dependencies]
